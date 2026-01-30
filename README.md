@@ -13,4 +13,5 @@ To use Code-Prettier in your Node.js project, you can install it via npm:
 
 ```bash
 npm install code-prettier
+```
 
