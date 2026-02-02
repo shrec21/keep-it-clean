@@ -1,5 +1,5 @@
 # keep-it-clean
-Code-prettier is a Node.js package designed to analyze code quality, perform linting, static analysis, and code formatting.
+Code-prettier is a Node.js package that analyzes code quality, performs linting, static analysis, and code formatting.
 
 ## Features
 
