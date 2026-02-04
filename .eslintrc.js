@@ -8,7 +8,6 @@ module.exports = {
     extends: ['eslint:recommended', 'plugin:prettier/recommended'],
     plugins: ['prettier'],
     rules: {
-      // Add custom ESLint rules here
     },
     env: {
         browser: true,
@@ -19,4 +18,5 @@ module.exports = {
     globals: {
         console: true,
     },
+
   };
